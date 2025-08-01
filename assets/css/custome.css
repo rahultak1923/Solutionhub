@@ -2,3 +2,9 @@
       background: hsl(210, 30%, 0%) radial-gradient(hsl(210, 30%, 20%), hsl(210, 30%, 0%));
 
 }
+
+@media screen and (max-width: 768px) {
+  .mobile-ra {
+    display: none !important;
+  }
+}
